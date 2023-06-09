@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Probando</string>
+    <string name="txtDatos">Datos</string>
+    <string name="hint_nombre">Tu nombre</string>
+    <string name="hint_email">Tu email</string>
+    <string name="hint_domicilio">Tu domicilio</string>
+</resources>

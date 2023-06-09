@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strDeptos">
+        <item>Sistemas</item>
+        <item>Redes</item>
+        <item>Soporte</item>
+        <item>RH</item>
+    </string-array>
+</resources>
